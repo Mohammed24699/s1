@@ -1,3 +1,0 @@
-[submodule "srsRAN_4G"]
-	path = srsRAN_4G
-	url = https://github.com/srsRAN/srsRAN_4G.git
